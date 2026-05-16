@@ -59,7 +59,8 @@ customers churn and predict WHO will churn next.
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](Churn_Dashboard.pdf)
+## 📈 Dashboard Preview
+[📊 Click here to view the Dashboard](churn_project.pdf)
 
 ---
 
